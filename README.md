@@ -32,10 +32,13 @@ This project serves as a **foundation for CI/CD pipelines**, where Git automatio
    git clone https://github.com/malghalara/gitAutomation.git
    cd gitAutomation
 
+---
 
 ## Make the script executable:
 
 chmod +x gitpush.sh
+
+---
 
 ## ▶️ Usage
 
@@ -47,9 +50,7 @@ Run the script inside any Git repository.
 🔹 Without a message (auto-generates one):
 ./gitpush.sh
 
-
-## 👉 Commit message will look like:
-Auto-commit on 2025-08-20 01:45:30
+---
 
 ## 🖥️ Example Output
 📌 Current branch: main
@@ -57,6 +58,8 @@ Auto-commit on 2025-08-20 01:45:30
  2 files changed, 10 insertions(+)
 🚀 Pushing changes to origin/main...
 🎉 Done! Changes pushed successfully.
+
+---
 
 ## 🛡️ Error Handling
 
@@ -66,6 +69,7 @@ Auto-commit on 2025-08-20 01:45:30
 
 ❌ Detached HEAD state → warns about missing branch
 
+---
 
 ## 🤝 Contributing
 
@@ -80,12 +84,13 @@ Commit your changes
 
 Open a Pull Request 🚀
 
+---
+
 ## 👨‍💻 Author
 
 Malghalara Ahmad
 
-
-## 📌 GitHub Profile
+---
 
 ## 🌟 Future Improvements
 
