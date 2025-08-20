@@ -1,7 +1,6 @@
 # 🚀 Git Automation Script
 
 [![Made with Bash](https://img.shields.io/badge/Made%20with-Bash-blue?logo=gnu-bash)](https://www.gnu.org/software/bash/)
-[![Git](https://img.shields.io/badge/Version-Control-Git-orange?logo=git)](https://git-scm.com/)
 
 A simple **Bash script** to automate everyday Git commands.  
 Instead of typing multiple commands manually, run **one script** to:
